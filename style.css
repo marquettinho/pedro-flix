@@ -1,0 +1,23 @@
+body {
+    color: white;
+    background: black;
+}
+
+header{
+   border-botton: solid 2px rgb(42,122,228);
+   padding: 20px;
+   font-size: 32px;
+   color: rgb(42,122,228);
+}
+
+section{
+    background: rgb(184,156,213);
+    padding-botton: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+div{
+    margin-right: 20px;
+}
